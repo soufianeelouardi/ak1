@@ -1,6 +1,6 @@
-owner=463562313153249290
-prefix=
-game=Type play
+owner=622470191263252510
+prefix=1
+game=ΛҜ THE BEST
 stayinchannel=true
 songinstatus=false
-token=
+token=NjI2MDM0NDIyODIyNDY5NjMz.XYoOAw.nbmcuMyURSfYWyiRMsyhY0i7Xq8
